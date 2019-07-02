@@ -61,8 +61,8 @@ public class App
         System.out.println("along with this program.  If not, see <http://www.gnu.org/licenses/>.");
         System.out.println();
         System.out.println("Enter the number corresponding the the data you would like:");
-        System.out.println("1. Witches");
-        System.out.println("2. UFOs");
+        System.out.println("1. Witches accused in the same month a UFO was spotted");
+        System.out.println("2. UFO sightings in the same city where a witch was accused");
         System.out.println("3. Exit");
 
         Scanner in = new Scanner(System.in);
