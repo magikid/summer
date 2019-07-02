@@ -21,14 +21,14 @@ all of the UFO sightings that occurred in the same month a witch was accused
 
 ### Installing
 
-# First clone the project
+1. Clone the project
   ```bash
   git clone https://github.com/magikid/summer.git
   cd summer
   ```
-# Then run the project using maven
+2. Run the project using maven
   ```
-  mvn clean package exec:java -Dexec.mainClass=org.codelouisville.Main
+  mvn clean package exec:java -Dexec.mainClass=dev.foobarbaz.App
   ```
 
 ## Help
